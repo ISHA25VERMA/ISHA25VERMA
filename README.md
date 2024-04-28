@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Isha</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">A passionate Softare Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha25verma&label=Profile%20views&color=0e75b6&style=flat" alt="isha25verma" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ISHA25VERMA](https://github.com/ISHA25VERMA)
+- 👨‍💻 I have a deep interest in helping people build efficient softwares 
 
-- 💬 Ask me about **Java, C++, C, Kotlin, Dart**
+- 💬 I am proficient at various programming languages and technilogies but currently working with JS, React, Graphql
 
 - 📫 How to reach me **isha2502verma@gmail.com**
 
